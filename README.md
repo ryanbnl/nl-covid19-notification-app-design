@@ -57,6 +57,6 @@ De Staat zal de ontwerpen en documentatie waar jij een bijdrage aan levert mogel
 
 Om alle licentie en auteursrechtelijke details af te handelen is het van belang dat je, zodra je een bijdrage wilt doen, onze [Contributor License Agreement](https://cla-assistant.io/minvws/nl-covid19-notification-app-design) leest en accepteert.
 
-NOTE: This README is also available [in English](README.EN.md). Thank you for understanding that the English version might not always be up-to-date with the Dutch one.
+NOTE: This README is also available [in English](translations/README.en.md). Thank you for understanding that the English version might not always be up-to-date with the Dutch one.
 
-NOTE: Deze README is ook beschikbaar [in het Engels](README.EN.md). Dank voor je begrip dat de Engelse versie niet altijd up-to-date is
+NOTE: Deze README is ook beschikbaar [in het Engels](translations/README.en.md). Dank voor je begrip dat de Engelse versie niet altijd up-to-date is
